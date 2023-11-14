@@ -1,0 +1,7 @@
+﻿  perlin.cpp
+C:\Users\yzh16\OneDrive\文档\334 final project\Base\Base_freeglut\src\perlin.cpp(17,14): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  base_freeglut.vcxproj -> C:\Users\yzh16\OneDrive\文档\334 final project\Base\Base_freeglut\x64\Debug\base_freeglut.exe
